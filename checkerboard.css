@@ -1,11 +1,11 @@
 body {
-    background-color: #e1e1e1;
+    background-color: lightslategray;
     margin: 0;
 }
 
 .container {
-    display: flex;
     height: 800px;
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -30,9 +30,9 @@ body {
 }
 
 .black {
-    background-color: lightblue;
+    background-color: #3d3736;
 }
 
 .white {
-    background-color: beige;
+    background-color: #f6eeec;
 }
